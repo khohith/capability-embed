@@ -1,7 +1,7 @@
 # Vector Embedding for Capability Composition
 ## Formal Representations, Compatibility, and Compositional Reasoning
 ### PCCST503 – Assignment 2
-**Submitted by:** Ayush Raj — TCR24CS018
+**Submitted by:** KARRI KHOHITH — TCR24CS041
 
 > **Assignment 2**: Design, implementation, and evaluation of a problem-specific vector representation for formally specified states, goals, and executable capabilities that preserves the functional relationships required to identify compatible capabilities and construct complex capabilities from simpler ones.
 
